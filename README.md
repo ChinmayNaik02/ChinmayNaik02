@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChinmayNaik02
-- 👀 I’m interested in Coding, Astronomy, Nuclear Physics, Football, Cricket, Cinema
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Machine Learning, Computer Science, Astronomy, Nuclear Physics, Football, Cricket, Cinema
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me chinmaynaik02@gmail.com
 
